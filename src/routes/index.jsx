@@ -8,6 +8,6 @@ function Routes() {
       <Route path="/" exact component={Dashboard} />
     </Switch>
   )
-};
+}
 
 export default Routes;
